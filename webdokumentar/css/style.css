@@ -494,6 +494,7 @@ video {
 
   .rellax img {
     max-width: 160px;
+    display: block;
   }
 
   .sky1 {
